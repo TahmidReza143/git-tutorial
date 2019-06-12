@@ -5,4 +5,8 @@ public class Hello {
     public static void messege() {
         System.out.println("Hooray!!! Now we are able to contribute on open source...");
     }
-}
+
+    public static void add(int a, int b) {
+        return a+b;
+    }
+} 
