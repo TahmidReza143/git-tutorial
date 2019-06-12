@@ -1,15 +1,8 @@
 public class Hello {
-    public static void main(string[] args) {
-        System.out.println("Vs code is Awesome...");
-
-        display();
+    public static void main(String[] args) {
+        System.out.println("Vs Code is Awesome...");
     }
-
-    public static void display() {
-        System.out.println("Hello Hello");
-    }
-
-    public static int sqr(int x) {
-        return x*x;
+    public static void messege() {
+        System.out.println("Hooray!!! Now we are able to contribute on open source...");
     }
 }
